@@ -1,2 +1,8 @@
-# nmap-scans
-My first hands-on tests with Nmap. Learning how to scan networks, detect services, and understand the basics of cybersecurity — all in a private lab environment.
+# First Nmap Scans
+
+This repository contains practical notes from my first tests using **Nmap**, a powerful network scanning tool used in cybersecurity.
+
+## 🔍 Command Used
+
+```bash
+sudo nmap -sV 192.168.0.105
